@@ -229,9 +229,9 @@ body {
     .profile-box .leftgh .image-box img {
       width: 100%; }
     .profile-box .leftgh .profile {
-      padding: 0px; }
+      padding: 10px; }
       .profile-box .leftgh .profile p {
-        text-indent: 0px; }
+        text-indent: 10px; }
   .profile-box .rit-data {
     padding: 20px 30px; }
     @media screen and (max-width: 470px) {
