@@ -231,7 +231,7 @@ body {
     .profile-box .leftgh .profile {
       padding: 20px; }
       .profile-box .leftgh .profile p {
-        text-indent: 20px; }
+        text-indent: 0px; }
   .profile-box .rit-data {
     padding: 20px 30px; }
     @media screen and (max-width: 470px) {
